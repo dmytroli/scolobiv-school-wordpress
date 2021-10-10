@@ -1,0 +1,1 @@
+var windowWidth=window.screen.width,buttonArh=document.querySelector(".arhive-wrapp span");+windowWidth<1100&&(buttonArh.innerHTML="Архів Д/З");
